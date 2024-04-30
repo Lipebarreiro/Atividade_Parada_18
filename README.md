@@ -3,6 +3,16 @@
 <div>
 <p>Página desenvolvida em aula replicando um modelo de página apresentada pelo professor utilizando o modelo de layout Flex Box.</p>
 
+
+## 🔎 Modelo Referência
+
+<img src="https://github.com/Lipebarreiro/Atividade_Parada_18/assets/114102258/34d93d45-7bf4-4837-ab43-760add0f7214">
+
+## 📸 Nosso Modelo
+
+<img src="">
+
+
 <h2>🤝 Equipe</h2>
 
 <ul>
